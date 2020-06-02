@@ -7,7 +7,6 @@
 &#x202b; 1. قم بعمل تطبيق بزرين two buttons 
 <br>
 <br>
-
 &#x202b; الأول يفتح grade calculator من HM4 
 <br>
 
