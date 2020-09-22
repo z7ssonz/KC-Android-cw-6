@@ -5,7 +5,7 @@
 ### الخطوات 
 <br>
 <p align="center">
-<img src = "https://media.discordapp.net/attachments/733045978461896770/757021576418820176/unknown.png" width = ""350 px" margin="auto"/>
+<img src = "https://media.discordapp.net/attachments/733045978461896770/757021576418820176/unknown.png" width = ""250 px" margin="auto"/>
 <br>
 
 &#x202b; 1. إفتح الملف المُعطى حتى تستطيع أن تكمل تطبيق صيدلية مسار الأندرويد 
